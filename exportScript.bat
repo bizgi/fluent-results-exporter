@@ -1,0 +1,1 @@
+"C:\Program Files\ANSYS Inc\V181\Framework\bin\win64\runwb2" -B -R "D:\exportScript.py"
